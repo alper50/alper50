@@ -1,5 +1,5 @@
-### Hi there 👋 I am a junior FLutter Developer 
-# ⚡ I’m currently exploring blockchain world.
+# Hi there 👋 I am a junior FLutter Developer 
+### ⚡ I’m currently exploring blockchain world.
 
 <!--
 **alper50/alper50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
