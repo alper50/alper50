@@ -1,4 +1,6 @@
-# Hi there 👋 I am a second year computer engineering student. I have passion for learning and sharing
+# Hi there 👋 
+
+## I am a second year computer engineering student. I have passion for learning and sharing
 
 ### ⚡ I’m currently working on Flutter and exploring blockchain world.
 
