@@ -1,5 +1,8 @@
-# Hi there 👋 I am a junior FLutter Developer 
-### ⚡ I’m currently exploring blockchain world.
+# Hi there 👋 I am a second year computer engineering student. I have passion for learning and sharing
+
+### ⚡ I’m currently working on Flutter and exploring blockchain world.
+
+### My Medium profile is [here](https://allperen.medium.com)
 
 <!--
 **alper50/alper50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
