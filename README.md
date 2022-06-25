@@ -2,7 +2,7 @@
 
 ## I'm Alperen Yalçın , second year computer engineering student.
 
-### ⚡ I’m currently working on Flutter and exploring blockchain world.
+### ⚡ I’m currently working on Flutter.
 
 ### 💬 My Medium profile is [here](https://allperen.medium.com)
 
