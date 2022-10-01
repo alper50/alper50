@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-## I'm Alperen Yalçın , second year computer engineering student.
+## I'm Alperen Yalçın , third year computer engineering student.
 
 ### ⚡ I’m currently working on Flutter.
 
