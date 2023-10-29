@@ -1,8 +1,6 @@
 # Hi there 👋 
 
-## I'm Alperen Yalçın , third year computer engineering student.
-
-### ⚡ I’m currently working on Flutter.
+## I'm Alperen 
 
 ### 💬 My Medium profile is [here](https://allperen.medium.com)
 
